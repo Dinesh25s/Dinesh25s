@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineer exploring and learning things from scratch</h3>
 
 - 🔭  I’m currently working on Machine Learning, Data Science, Data Analytics, Autonomous systems and disability tech
-- 👯 I’m looking to collaborate on Any technical projects in Machine Learning, Data Science, Data Analytics, Computer           vision and Robotics
+- 👯 I’m looking to collaborate on Any technical projects in Machine Learning, Data Science, Data Analytics, Computer vision and Robotics
 - 👨‍💻 All of my projects are available at (https://(www.saidineshsarisa.ml/)
 - 💬 Ask me about Python,Data Analytics, Data Science, Machine Learning and Robotics
 - 📫 reach me on **sarisasaidinesh2536@gmail.com**
